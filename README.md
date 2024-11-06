@@ -1,6 +1,6 @@
 <h1 align="center">Hello I'm Rifky Tyo Ramadhani Santoso</h1>
 <h2 align="center">Informatics Student at UIN Sunan Kalijaga</h2>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Kotlin Android Developer | Flutter Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifftyo&label=Profile%20views&color=0e75b6&style=flat" alt="rifftyo" /> </p>
 
